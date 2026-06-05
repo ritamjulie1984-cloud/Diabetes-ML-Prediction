@@ -1,4 +1,4 @@
-# Diabetes-ML-Prediction
+# GlucoSense ML — Smart Diabetes Risk Detection with Machine Learning
 End-to-end Pima Indian Diabetes prediction in Python with data cleaning, imputation, Naive Bayes, Random Forest, and regularized Logistic Regression with cross-validation.
 # Pima Indian Diabetes Prediction
 
